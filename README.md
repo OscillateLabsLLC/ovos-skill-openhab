@@ -1,4 +1,7 @@
 # <img src='https://www.openhab.org/openhab-logo-square.png' card_color='#40DBB0' width='50' height='50' style='vertical-align:bottom'/> openHAB
+
+[![Status: Proof of Concept](https://img.shields.io/badge/status-proof%20of%20concept-orange)](https://github.com/OscillateLabsLLC/.github/blob/main/SUPPORT_STATUS.md)
+
 This skill adds openHAB support to OVOS/Neon.  **Please note that this is not an official OVOS or Neon skill. This version of the openHAB skill is not maintained by the openHAB community.**
 
 ## About 
